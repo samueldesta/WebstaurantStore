@@ -29,5 +29,4 @@ randomized product page sampling via a Groovy script.
 - The Groovy script dynamically picks a random product ID and
 name from Product_Id.csv each iteration
 
-## CSV Format
-The Product_Id.csv file follows this format:
+
